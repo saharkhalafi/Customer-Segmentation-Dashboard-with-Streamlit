@@ -1,0 +1,15 @@
+pandas
+numpy
+openpyxl
+scikit-learn
+scipy
+statsmodels
+mlxtend
+xgboost
+lightgbm
+matplotlib
+seaborn
+plotly
+streamlit
+jdatetime
+joblib
