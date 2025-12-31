@@ -28,6 +28,7 @@ This project provides a **Customer Segmentation Dashboard** built with **Streaml
 - Filterable tables with download capability.
 
 ---
+![Dashboard Preview](seg_str.png)
 
 ## 📂 File Structure
 ```text
@@ -39,6 +40,5 @@ This project provides a **Customer Segmentation Dashboard** built with **Streaml
 ├── requirements.txt       # Python dependencies
 └── README.md
 ---
-![Dashboard Preview](seg_str.png)
 
 
