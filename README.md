@@ -38,3 +38,7 @@ This project provides a **Customer Segmentation Dashboard** built with **Streaml
 ├── data/                  # Sample dataset (Excel/CSV)
 ├── requirements.txt       # Python dependencies
 └── README.md
+---
+![Dashboard Preview](seg_str.png)
+
+
