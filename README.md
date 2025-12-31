@@ -30,6 +30,7 @@ This project provides a **Customer Segmentation Dashboard** built with **Streaml
 ---
 
 ## 📂 File Structure
+```text
 ├── app.py                 # Streamlit dashboard using precomputed Excel data
 ├── dashboard_app.py       # Full dashboard with feature engineering & clustering
 ├── segmentation_model.py  # Functions for RFM scoring, clustering, and outlier removal
@@ -37,4 +38,3 @@ This project provides a **Customer Segmentation Dashboard** built with **Streaml
 ├── data/                  # Sample dataset (Excel/CSV)
 ├── requirements.txt       # Python dependencies
 └── README.md
-
